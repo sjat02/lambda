@@ -1,0 +1,12 @@
+Program -
+
+Program is a sqequence of instructions written in prgramming languages
+
+eg: google chrome
+
+
+Process - 
+Process is a instance of a program that is being executed 
+
+Thread -
+It is a unit of the process 
