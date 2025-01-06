@@ -1,15 +1,6 @@
-# Machine Learning Models Practice
+# Machine Learning Practice
 
 This repository serves as a refresher for practicing widely used Machine Learning (ML) algorithms. It includes Python implementations for various ML models, ranging from basic to advanced, using diverse datasets.
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [ML Models Covered](#ml-models-covered)
-- [Datasets Used](#datasets-used)
-- [Project Structure](#project-structure)
-- [How to Use](#how-to-use)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 This repository is designed to reinforce concepts and skills in Machine Learning by working on hands-on examples with Python. It includes code for:
@@ -60,43 +51,17 @@ pip install -r requirements.txt
     - Predicting loan default on a financial dataset.
 
 ## Datasets Used
-- **Boston Housing**: Predict house prices.
-- **Iris Dataset**: Flower classification.
-- **Titanic Dataset**: Survival prediction.
-- **Pima Indians Diabetes**: Predict diabetes onset.
-- **Custom Retail Dataset**: Customer segmentation.
 - **Synthetic Datasets**: Generated using `sklearn.datasets` for SVM and Neural Networks.
 
-## Project Structure
-```
-ML_Models_Practice/
-├── datasets/
-│   ├── boston_housing.csv
-│   ├── titanic.csv
-│   └── ...
-├── notebooks/
-│   ├── linear_regression.ipynb
-│   ├── logistic_regression.ipynb
-│   ├── decision_trees.ipynb
-│   └── ...
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_evaluation.py
-│   ├── hyperparameter_tuning.py
-│   └── ...
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
 
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ML_Models_Practice.git
+   git clone https://github.com/sjat02/lambda.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd ML_Models_Practice
+   cd lambda
    ```
 3. Install required libraries:
    ```bash
